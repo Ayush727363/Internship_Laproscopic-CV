@@ -1,0 +1,28 @@
+{
+  "weights": "D:\\Study\\CDC Project 1\\Project\\runs\\segment\\surgical\\weights\\best.pt",
+  "names": [
+    "external iliac artery",
+    "external iliac vein",
+    "obturator nerve",
+    "ovary",
+    "ureter",
+    "uterine artery",
+    "uterus",
+    "instruments"
+  ],
+  "conf": {
+    "external iliac artery": 0.05,
+    "external iliac vein": 0.05,
+    "obturator nerve": 0.05,
+    "ovary": 0.05,
+    "ureter": 0.05,
+    "uterine artery": 0.05,
+    "uterus": 0.05,
+    "instruments": 0.05
+  },
+  "source_shape": [
+    1920,
+    1080
+  ],
+  "note": "conf tuned on val by F1; preprocessing chosen from PART 1 table"
+}

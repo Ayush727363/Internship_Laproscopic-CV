@@ -1,0 +1,46 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Caches
+__pycache__/
+hf_cache/
+pip_cache/
+.pytest_cache/
+*.pyc
+*.pyo
+*.pyd
+
+# IDEs & Tools
+.claude/
+.vscode/
+.idea/
+
+# Datasets
+Merged_Dataset/
+data/
+
+# Videos
+*.mp4
+*.avi
+*.mkv
+*.mov
+Videos/
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+Screenshots/
+
+# Misc
+old rejected stuff + backup/
+panel reviews/
+*.safetensors
+*.bin
+*.pt
+*.zip
